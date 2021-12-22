@@ -1,0 +1,14 @@
+[
+  {
+    "country_name": "ligmanda",
+    "genders": [
+      {
+        "gender": "boing",
+        "names" : ["1n", "2n", "3n"],
+        "chance": 50,
+        "min_age": 0,
+        "max_age": 100
+      }
+    ]
+  }
+]
